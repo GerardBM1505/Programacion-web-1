@@ -1,0 +1,23 @@
+.fondogris{
+    background-color: #c5c6c8;
+}
+
+.parrafosec1{
+
+    margin-bottom: 0px;
+}
+
+.sectionPrimaria{
+    text-align: justify;
+    font-size: 18px;
+    background-color: #b2e2f2;
+    margin-top: 80px;
+    margin-bottom: 0px;
+}
+.sectionSecundaria{
+    text-align: left;
+    font-size: 10px;
+    color:#c7f6d4;
+    border: 2px solid #888a8a;
+    margin-top:0px;
+}
