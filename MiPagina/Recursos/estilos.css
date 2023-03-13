@@ -1,0 +1,59 @@
+@font-face {
+    font-family: Dominos_Blast;
+    src: url(Fuentes/Dominos\ Blast.otf);
+}
+
+@font-face {
+    font-family: Yakin;
+    src: url(Fuentes/Yakin.otf);
+}
+
+@font-face {
+    font-family: Travels;
+    src: url(Fuentes/TT\ Travels\ Trial\ Regular.otf);
+}
+
+p{
+    font-family: 'Dominos_Blast';
+}
+
+.fuenteEmilio{
+    font-family: Yakin;
+}
+
+body{
+    background-color:#ff9c9c;
+    padding: 4em;
+    font-family: Travels;
+}
+
+.fondoblanco{
+    background-color: aliceblue;
+}
+
+.bordeblanco{
+    border: 20px solid red ;
+    border-radius: 15px;
+}
+
+.imagenEstilo{
+    text-align: center;
+    width: 150px;
+
+}
+
+.textoFooter{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-radius: 5px 5px 0px 0px;
+    
+}
+
+.parrafoFooter{
+    font-size: 30px;
+    margin: 0px;
+    font-family: Travels;
+}
