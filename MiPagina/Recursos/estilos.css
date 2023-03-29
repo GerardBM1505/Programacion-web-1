@@ -13,47 +13,70 @@
     src: url(Fuentes/TT\ Travels\ Trial\ Regular.otf);
 }
 
-p{
+p {
     font-family: 'Dominos_Blast';
 }
 
-.fuenteEmilio{
+.fuenteEmilio {
     font-family: Yakin;
 }
 
-body{
-    background-color:#ff9c9c;
+body {
+    background: rgb(56, 46, 230);
+    background: linear-gradient(300deg, rgba(56, 46, 230, 1) 0%, rgba(97, 236, 179, 1) 44%, rgba(74, 223, 254, 1) 96%);
     padding: 4em;
-    font-family: Travels;
+    background-repeat:no-repeat;
+    background-size: auto;
 }
 
-.fondoblanco{
-    background-color: aliceblue;
+.fondoblanco {
+    background-color: #61ecb3;
 }
 
-.bordeblanco{
-    border: 20px solid red ;
+.bordeblanco {
+    border: 20px solid red;
     border-radius: 15px;
 }
 
-.imagenEstilo{
+.imagenEstilo {
     text-align: center;
     width: 150px;
 
 }
 
-.textoFooter{
+.textoFooter {
     background-color: black;
     color: white;
     text-align: center;
     padding-top: 1em;
     padding-bottom: 1em;
     border-radius: 5px 5px 0px 0px;
-    
+
 }
 
-.parrafoFooter{
+.parrafoFooter {
     font-size: 30px;
     margin: 0px;
     font-family: Travels;
+}
+
+.titulo {
+    font-family: Travels;
+    font-size: 35px;
+}
+
+.subtitulo {
+    text-align: center;
+    font-family: Dominos_Blast;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 35px;
+}
+
+.imagenFondo {
+    background-image: url(media/Pelon.jpg);
+    padding: 15px;
+    background-size: 5em;
+    background-repeat: no-repeat;
+    width: 100%;
 }

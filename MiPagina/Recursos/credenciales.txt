@@ -1,0 +1,5 @@
+sMySQL DB Name: epiz_33685868_dbweb1
+MySQL User Name: epiz_33685868
+MySQL Host Name: sql207.epizy.com
+MYSQL PORT: 3306
+MYSQL PASSWORD: UACQUSSFKyCWsCE
